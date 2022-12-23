@@ -1,6 +1,6 @@
 # fit tracker
 
-### Program << using bmi calculator >>
+### Program << using bmi calculator >> Assembly program that calculate the percentage using <br/>the arithmetic (height / weight) for the measure of body fat based on height and weight that applies to adult men and women, <br/>then give some instructions that may help.
 
 - At first :
     - User enter the height in cm
