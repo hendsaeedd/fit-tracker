@@ -6,7 +6,7 @@
     - User enter the height in cm
     - Then enter the weight in kg
    
-    ![](fit-tracker/assets/pic (1).png)
+    https://github.com/hendsaeedd/fit-tracker/blob/master/assets/pic%20(1).png
    
 - Then :
     - The program calculate the percentage using the arithmetic (height / weight)
