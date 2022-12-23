@@ -274,7 +274,6 @@
         lea dx,msk4
         mov ah,9
         int 21h
-        
         jmp exit
         
       p2:
