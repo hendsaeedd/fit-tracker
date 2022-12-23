@@ -1,6 +1,6 @@
 # fit tracker
 
-### Keep fit << using bmi calculator  >>
+### Program << using bmi calculator >>
 
 - At first :
     - User enter the height in cm
